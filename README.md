@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-xiyuewang556633/
 
-On Heroku: https://cs156-w22-jpa02-xiyue.herokuapp.com
+On Heroku: https://cs156-w22-jpa02-xiyuewang.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-xiyuewang556633
 
